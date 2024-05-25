@@ -38,6 +38,6 @@ An interpreter for a Toy programming language written in Java with a graphical u
 
 # GUI
 - a window to select the programs
+  <p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/ToyLanguageInterpreter/blob/main/images/capture.png" height="500"/> </p>
 - a window to execute the selected program
-<p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/ToyLanguageInterpreter/blob/main/images/capture.png" height="500"/> </p>
-<p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/ToyLanguageInterpreter/blob/main/images/other.png" height="500"/> </p>
+  <p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/ToyLanguageInterpreter/blob/main/images/other.png" height="500"/> </p>
