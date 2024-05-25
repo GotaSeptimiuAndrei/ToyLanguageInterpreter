@@ -39,5 +39,5 @@ An interpreter for a Toy programming language written in Java with a graphical u
 # GUI
 - a window to select the programs
 - a window to execute the selected program
-<p align="center"> <img src="https://github.com/AndreiGota/ToyLanguageInterpreter/blob/master/images/Capture1.PNG" height="500"/> </p>
-<p align="center"> <img src="https://github.com/AndreiGota/ToyLanguageInterpreter/blob/master/images/Capture2.PNG" height="500"/> </p>
+<p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/ToyLanguageInterpreter/blob/master/images/Capture1.PNG" height="500"/> </p>
+<p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/ToyLanguageInterpreter/blob/master/images/Capture2.PNG" height="500"/> </p>
